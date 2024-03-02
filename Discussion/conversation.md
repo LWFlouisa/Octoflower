@@ -1,4 +1,4 @@
-Me; I mean how would one aspect aspects of the real life octupus to networks and servers?
+Me; How would one aspect aspects of the real life octupus to networks and servers?
 
 Phind: Octopuses and squids are both cephalopods, but they have distinct differences in their physical characteristics, habitat, and behavior. Here's an outline summarizing the key differences and useful aspects for programmers or anyone interested in these fascinating animals:
 
