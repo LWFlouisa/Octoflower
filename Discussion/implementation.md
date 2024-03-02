@@ -14,6 +14,8 @@ The described system seems to be a complex, evolving system that leverages a com
 
 ### Online Activities
 
+- **Self Hosted**: Not reliant on an external web provider, in case the TERMS OF SERVICE every changes and outright excldues chatbots and advanced file systems from using their services. In particular, not using Google or Microsoft services.
+
 - **CSS Decision Process**: Automating the decision process for CSS selection to avoid detection involves analyzing the content and structure of different websites and choosing CSS that blends in with the background. This could be achieved through machine learning algorithms or by manually curating a library of CSS styles that are less likely to stand out.
 
 - **Integration with IPFS and Secure Scuttlebutt**: Integrating with IPFS or Secure Scuttlebutt allows for decentralized storage and communication. This can be particularly useful for online activities like Mastodon bots, as it provides a secure and peer-to-peer infrastructure for content distribution and collaboration.
